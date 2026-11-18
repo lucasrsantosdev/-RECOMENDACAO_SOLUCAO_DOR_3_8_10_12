@@ -1,0 +1,19 @@
+﻿Dor;Hipotese;Causa_Raiz;Criterio_de_Validacao;Status
+03;H3.1;Falha de integracao academico-financeiro;Conciliar eventos academicos e titulos;A investigar
+03;H3.2;Controle de pre-candidatos via parametrizacao;Verificar notas zeradas sem matricula;A investigar
+03;H3.3;Identificacao incorreta do pagador;Validar comprovantes e regra de engajamento;Correcao informada - evidencia pendente
+03;H3.4;Manualidade no aproveitamento;Detectar duplicidades e erros;A investigar
+08;H8.1;Conferencia sem garantia de igualdade de valores;Conciliar quantidade e soma monetaria;Correcao informada - evidencia pendente
+08;H8.2;Ausencia de revisao gerencial comprovada;Exigir aprovacao identificada e datada;Correcao informada - evidencia pendente
+08;H8.3;Ausencia de timestamp de extracao;Validar extracao posterior ao fechamento;Correcao informada - evidencia pendente
+08;H8.4;Excecoes sem criterio formal;Registrar diferencas e investigacoes;Limite em teste
+10;H10.1;Relatorios sem separacao de componentes;Conciliar repasse e coparticipacao;A investigar
+10;H10.2;Extracao gerencial inconsistente;Comparar fonte gerencial e individual;A investigar
+10;H10.3;Ressarcimento retroativo sem processo;Rastrear pagamento e aditamento;A investigar
+10;H10.4;Recalculo manual apos cancelamento;Validar saldo devido e historico;A investigar
+10;H10.5;FIES irregular sem controle tempestivo;Detectar cobertura vencida ou irregular;A investigar
+10;H10.6;RPA paliativo sem conformidade demonstrada;Revisar execucao e requisitos regulatorios;A investigar
+12;H12.1;Cadastros legados sem validacao;Identificar enderecos inconsistentes;A investigar
+12;H12.2;Campos editaveis apos busca de CEP;Validar CEP e componentes;A investigar
+12;H12.3;Uso de endereco de polo;Detectar coincidencias e encaminhar revisao;A investigar
+

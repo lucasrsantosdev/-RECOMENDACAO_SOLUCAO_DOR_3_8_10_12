@@ -1,0 +1,45 @@
+﻿# Segredos e configuracoes
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+secrets/
+credentials/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+
+# Dados reais e evidencias
+**/dados_reais/
+**/evidencias_reais/
+**/raw_reais/
+**/output/
+**/logs/
+*.pdf
+*.xlsx
+*.xls
+*.xlsm
+*.msg
+*.pst
+*.png
+*.jpg
+*.jpeg
+*.mp4
+*.zip
+*.sqlite
+*.db
+*.parquet
+
+# Backups do bootstrap
+.bootstrap_backup/
+
+# Sistema
+.DS_Store
+Thumbs.db
+

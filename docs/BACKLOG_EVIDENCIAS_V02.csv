@@ -1,0 +1,19 @@
+﻿ID;Dor;Informacao_necessaria;Prioridade;Status
+EV-001;03;Chaves entre aluno matricula contrato e titulo;Alta;Pendente
+EV-002;03;Regra de cancelamento e trancamento por IES;Alta;Pendente
+EV-003;03;Regra de recalculo apos remocao de disciplinas;Alta;Pendente
+EV-004;03;Processos de tombamento de valores e vencimentos;Alta;Pendente
+EV-005;03;Regra de aplicacao e baixa de bolsas integrais;Alta;Pendente
+EV-006;03;Diferenca entre estorno e cancelamento contabil;Alta;Pendente
+EV-007;03;Evidencia da correcao de identificacao do pagador;Media;Pendente
+EV-008;03;Fluxo de aproveitamento e integracao financeira;Alta;Pendente
+EV-009;08;Extracao NDD e faturamento da mesma competencia;Alta;Pendente
+EV-010;08;Aprovacao gerencial e timestamp de fechamento;Alta;Pendente
+EV-011;08;Procedimento homologado de investigacao;Alta;Pendente
+EV-012;10;Extrato SisFIES autorizado e dicionario;Alta;Pendente
+EV-013;10;Regra de repasse e coparticipacao;Alta;Pendente
+EV-014;10;Historico de aditamentos e cobertura;Alta;Pendente
+EV-015;10;Inventario de processos do RPA existente;Alta;Pendente
+EV-016;10;Regras de cancelamento e ressarcimento;Alta;Pendente
+EV-017;12;Plano de saneamento do Projeto RT;Media;Pendente
+EV-018;12;Evidencia de funcionamento das travas CEP;Media;Pendente

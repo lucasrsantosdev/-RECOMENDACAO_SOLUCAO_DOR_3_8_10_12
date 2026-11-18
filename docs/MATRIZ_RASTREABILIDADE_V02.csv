@@ -1,0 +1,18 @@
+﻿Dor;Hipotese;Fonte;Situacao;Acao_POC
+03;H3.1;Miro e fluxos academicos;Hipotese sem comprovacao integral;Conciliar eventos e titulos
+03;H3.2;Miro e evidencias de candidatos;Hipotese em investigacao;Validar faturamento sem matricula
+03;H3.3;Miro;Correcao informada sem evidencia suficiente;Validar identificacao do pagador
+03;H3.4;Miro e mapa V3;Risco de manualidade documentado;Detectar erros de aproveitamento
+08;H8.1;Miro;Correcao informada sem homologacao;Validar igualdade monetaria
+08;H8.2;Miro;Correcao informada sem homologacao;Validar aprovacao gerencial
+08;H8.3;Miro;Correcao informada sem homologacao;Validar timestamp do fechamento
+08;H8.4;Miro;Criterio de investigacao em teste;Validar excecoes e limite aprovado
+10;H10.1;Miro;Regra financeira nao homologada;Separar repasse e coparticipacao
+10;H10.2;Miro;Extracao real nao mapeada;Comparar extracoes autorizadas
+10;H10.3;Miro;Procedimento de ressarcimento pendente;Simular aditamento retroativo
+10;H10.4;Miro;Recalculo real nao mapeado;Simular cancelamento FIES
+10;H10.5;Miro;Integracao com rematricula pendente;Simular cobertura irregular
+10;H10.6;Miro;RPA existente sem avaliacao tecnica;Inventariar e avaliar RPA
+12;H12.1;Miro;Projeto RT em andamento;Validar cadastros legados
+12;H12.2;Miro;Correcao de CEP a confirmar;Homologar bloqueios e excecoes
+12;H12.3;Miro;Saneamento em andamento;Validar cadastros de polos
