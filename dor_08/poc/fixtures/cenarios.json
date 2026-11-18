@@ -1,0 +1,57 @@
+[
+  {
+    "origem": "SINTETICA",
+    "caso": "CT08-01",
+    "hipotese": "H8.1",
+    "qtd_ndd": 2,
+    "qtd_faturamento": 2,
+    "valor_ndd": "100.00",
+    "valor_faturamento": "100.50",
+    "esperado": "DIVERGENCIA_CANDIDATA"
+  },
+  {
+    "origem": "SINTETICA",
+    "caso": "CT08-02",
+    "hipotese": "H8.1",
+    "qtd_ndd": 3,
+    "qtd_faturamento": 2,
+    "esperado": "DIVERGENCIA_CANDIDATA"
+  },
+  {
+    "origem": "SINTETICA",
+    "caso": "CT08-03",
+    "hipotese": "H8.3",
+    "data_extracao": "2026-09-30T20:00:00",
+    "data_fechamento": "2026-09-30T23:00:00",
+    "esperado": "DIVERGENCIA_CANDIDATA"
+  },
+  {
+    "origem": "SINTETICA",
+    "caso": "CT08-04",
+    "hipotese": "H8.2",
+    "aprovador": "",
+    "esperado": "PENDENTE_EVIDENCIA"
+  },
+  {
+    "origem": "SINTETICA",
+    "caso": "CT08-05",
+    "hipotese": "H8.4",
+    "aprovador": "GESTOR-SINTETICO",
+    "excecao_aberta": true,
+    "justificativa": "",
+    "esperado": "PENDENTE_EVIDENCIA"
+  },
+  {
+    "origem": "SINTETICA",
+    "caso": "CT08-06",
+    "hipotese": "H8.1",
+    "qtd_ndd": 2,
+    "qtd_faturamento": 2,
+    "valor_ndd": "250.00",
+    "valor_faturamento": "250.00",
+    "data_extracao": "2026-10-01T01:00:00",
+    "data_fechamento": "2026-09-30T23:00:00",
+    "aprovador": "GESTOR-SINTETICO",
+    "esperado": "CONCILIADO"
+  }
+]

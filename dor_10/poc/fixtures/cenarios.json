@@ -1,0 +1,59 @@
+[
+  {
+    "origem": "SINTETICA",
+    "caso": "CT10-01",
+    "hipotese": "H10.1",
+    "repasse_sisfies": "800",
+    "repasse_financeiro": "700",
+    "coparticipacao": "200",
+    "esperado": "DIVERGENCIA_CANDIDATA"
+  },
+  {
+    "origem": "SINTETICA",
+    "caso": "CT10-02",
+    "hipotese": "H10.2",
+    "resumo_sisfies": "1050",
+    "detalhado_sisfies": "1000",
+    "esperado": "DIVERGENCIA_CANDIDATA"
+  },
+  {
+    "origem": "SINTETICA",
+    "caso": "CT10-03",
+    "hipotese": "H10.3",
+    "aditamento_retroativo": true,
+    "pagamento_aluno": "300",
+    "esperado": "PENDENTE_APROVACAO"
+  },
+  {
+    "origem": "SINTETICA",
+    "caso": "CT10-04",
+    "hipotese": "H10.4",
+    "fies_cancelado": true,
+    "saldo_pendente": "450",
+    "esperado": "PENDENTE_REGRA"
+  },
+  {
+    "origem": "SINTETICA",
+    "caso": "CT10-05",
+    "hipotese": "H10.5",
+    "cobertura": "VENCIDA",
+    "matricula_ativa": true,
+    "esperado": "PENDENTE_REGRA"
+  },
+  {
+    "origem": "SINTETICA",
+    "caso": "CT10-06",
+    "hipotese": "H10.6",
+    "rpa_status": "FALHA",
+    "esperado": "PENDENTE_EVIDENCIA"
+  },
+  {
+    "origem": "SINTETICA",
+    "caso": "CT10-07",
+    "hipotese": "H10.1",
+    "repasse_sisfies": "800",
+    "repasse_financeiro": "800",
+    "coparticipacao": "200",
+    "esperado": "CONCILIADO"
+  }
+]

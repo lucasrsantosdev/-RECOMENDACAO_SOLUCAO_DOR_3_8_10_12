@@ -1,0 +1,77 @@
+[
+  {
+    "origem": "SINTETICA",
+    "caso": "CT03-01",
+    "hipotese": "H3.1",
+    "evento": "CANCELAMENTO",
+    "data_efetiva": "2026-09-05",
+    "vencimento_titulo": "2026-10-05",
+    "valor_titulo": "250",
+    "esperado": "DIVERGENCIA_CANDIDATA"
+  },
+  {
+    "origem": "SINTETICA",
+    "caso": "CT03-02",
+    "hipotese": "H3.1",
+    "evento": "CANCELAMENTO",
+    "data_efetiva": "2026-09-05",
+    "vencimento_titulo": "2026-10-05",
+    "valor_titulo": "0",
+    "esperado": "CONCILIADO"
+  },
+  {
+    "origem": "SINTETICA",
+    "caso": "CT03-03",
+    "hipotese": "H3.1",
+    "bolsa_percentual": 100,
+    "saldo": "120",
+    "esperado": "DIVERGENCIA_CANDIDATA"
+  },
+  {
+    "origem": "SINTETICA",
+    "caso": "CT03-04",
+    "hipotese": "H3.2",
+    "situacao": "PRE_CANDIDATO",
+    "valor_nota": "0",
+    "esperado": "PENDENTE_REGRA"
+  },
+  {
+    "origem": "SINTETICA",
+    "caso": "CT03-05",
+    "hipotese": "H3.3",
+    "pagador": "POLO",
+    "engajamento_aluno": true,
+    "esperado": "PENDENTE_EVIDENCIA"
+  },
+  {
+    "origem": "SINTETICA",
+    "caso": "CT03-06",
+    "hipotese": "H3.4",
+    "aproveitamento_duplicado": true,
+    "esperado": "DIVERGENCIA_CANDIDATA"
+  },
+  {
+    "origem": "SINTETICA",
+    "caso": "CT03-07",
+    "hipotese": "H3.1",
+    "disciplina_removida": true,
+    "recalculo_executado": false,
+    "esperado": "DIVERGENCIA_CANDIDATA"
+  },
+  {
+    "origem": "SINTETICA",
+    "caso": "CT03-08",
+    "hipotese": "H3.1",
+    "disciplina_removida": true,
+    "recalculo_executado": true,
+    "esperado": "CONCILIADO"
+  },
+  {
+    "origem": "SINTETICA",
+    "caso": "CT03-09",
+    "hipotese": "H3.1",
+    "tipo_ajuste": "ESTORNO",
+    "classificacao": "CANCELAMENTO_PERIODO",
+    "esperado": "PENDENTE_REGRA"
+  }
+]

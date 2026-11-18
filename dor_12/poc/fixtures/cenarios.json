@@ -1,0 +1,62 @@
+[
+  {
+    "origem": "SINTETICA",
+    "caso": "CT12-01",
+    "hipotese": "H12.1",
+    "cep": "123",
+    "esperado": "DIVERGENCIA_CANDIDATA"
+  },
+  {
+    "origem": "SINTETICA",
+    "caso": "CT12-02",
+    "hipotese": "H12.1",
+    "cep": "01001000",
+    "uf": "RJ",
+    "uf_referencia": "SP",
+    "esperado": "DIVERGENCIA_CANDIDATA"
+  },
+  {
+    "origem": "SINTETICA",
+    "caso": "CT12-03",
+    "hipotese": "H12.1",
+    "cep": "01001000",
+    "cadastro_legado": true,
+    "endereco_completo": false,
+    "esperado": "DIVERGENCIA_CANDIDATA"
+  },
+  {
+    "origem": "SINTETICA",
+    "caso": "CT12-04",
+    "hipotese": "H12.3",
+    "cep": "01001000",
+    "endereco_igual_polo": true,
+    "esperado": "REQUER_REVISAO_HUMANA"
+  },
+  {
+    "origem": "SINTETICA",
+    "caso": "CT12-05",
+    "hipotese": "H12.2",
+    "cep": "01001000",
+    "edicao_apos_cep": true,
+    "campo_editado": "complemento",
+    "esperado": "CONCILIADO"
+  },
+  {
+    "origem": "SINTETICA",
+    "caso": "CT12-06",
+    "hipotese": "H12.2",
+    "cep": "01001000",
+    "edicao_apos_cep": true,
+    "campo_editado": "logradouro",
+    "esperado": "PENDENTE_REGRA"
+  },
+  {
+    "origem": "SINTETICA",
+    "caso": "CT12-07",
+    "hipotese": "H12.1",
+    "cep": "01001000",
+    "uf": "SP",
+    "uf_referencia": "SP",
+    "esperado": "CONCILIADO"
+  }
+]
